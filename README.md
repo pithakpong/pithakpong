@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pithakpong</h1>
 <h3 align="center">A passionate learn new technology in nowadays</h3>
-<img align="right" alt="coding" width="400" arc="https://magiccopy.xyz/assets/images/hadder.gif">
+<img align="right" alt="coding" width="400" arc="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pithakpong&label=Profile%20views&color=0e75b6&style=flat" alt="pithakpong" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
