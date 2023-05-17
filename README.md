@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/พิทักษ์พงษ์ สาวงศ์นาม" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="พิทักษ์พงษ์ สาวงศ์นาม" height="30" width="40" /></a>
-<a href="https://instagram.com/namningnamning9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namningnamning9" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100011026087998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="พิทักษ์พงษ์ สาวงศ์นาม" height="30" width="40" /></a>
+<a href="https://www.instagram.com/namningnamning9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namningnamning9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
